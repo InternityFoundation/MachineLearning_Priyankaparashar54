@@ -1,4 +1,4 @@
-Data visualization is the visual representation of data, so that patterns, trends and correlations that might not otherwise be detected can be exposed. It involves the creation and study of the visual representation of data. Data visualization not only helps you to understand your data well but whenever you find any insights, you can use these visualization techniques to share your findings with other people.
+Data visualization is the visual representation of data, so that patterns, trends and correlations that might not otherwise be detected can be exposed.
 For the purpose of data visualization, we have taken a small online retail dataset which consists of 4 columns “country”, “age”, “salary”, “purchased”. This dataset tells us about a person’s detail in which country he lives, what is his age, what is his salary and based on all these things whether he purchased the product or not.
 
 Python offers different types of plotting libraries, but here we have implemented using: -
