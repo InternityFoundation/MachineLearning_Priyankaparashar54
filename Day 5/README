@@ -5,7 +5,7 @@ Python offers different types of plotting libraries, but here we have implemente
 1)	Matplotlib: It is a python library used extensively for the visualization of data.
 2)	Seaborn: It is a python library based on matplotlib. Seaborn provides a high-level interface for drawing attractive and informative statistical graphs. You can create graphs in one line that would take you multiple tens of lines in Matplotlib.
 
-Here we have plotted different types of plots: -
+Here I have plotted different types of plots: -
 •	Scatter Plot
 •	Line Chart
 •	Histogram
