@@ -1,1 +1,20 @@
+Data visualization is the visual representation of data, so that patterns, trends and correlations that might not otherwise be detected can be exposed. It involves the creation and study of the visual representation of data. Data visualization not only helps you to understand your data well but whenever you find any insights, you can use these visualization techniques to share your findings with other people.
+For the purpose of data visualization, we have taken a small online retail dataset which consists of 4 columns “country”, “age”, “salary”, “purchased”. This dataset tells us about a person’s detail in which country he lives, what is his age, what is his salary and based on all these things whether he purchased the product or not.
+
+Python offers different types of plotting libraries, but here we have implemented using: -
+1)	Matplotlib: It is a python library used extensively for the visualization of data.
+2)	Seaborn: It is a python library based on matplotlib. Seaborn provides a high-level interface for drawing attractive and informative statistical graphs. You can create graphs in one line that would take you multiple tens of lines in Matplotlib.
+
+Here we have plotted different types of plots: -
+•	Scatter Plot
+•	Line Chart
+•	Histogram
+•	Bar Chart
+•	Box Plot
+•	Heat Map
+•	Implot
+
+The main difference between bar charts and histograms. With bar charts, each column represents a group defined by a categorical variable; and with histograms, each column represents a group defined by a continuous, quantitative variable.
+
+
 
